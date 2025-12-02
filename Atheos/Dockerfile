@@ -10,4 +10,4 @@ RUN apt update && \
         build-essential && \
 
 # Or, using python3-pip (for Python 3.x)
-RUN python3 -m pip install numpy pandas
+# RUN python3 -m pip install numpy pandas
